@@ -10,7 +10,7 @@
 
 # HOW TO USE ??
 
-**01.** [![BlackPearl Template Posters](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InspectorWilliamHenderson/BlackPearl-Template-Posters/blob/main/Blackpearl%20Template%20Posters.ipynb) Use This Button to Open the Notebook in Google Colab.
+**01.** [![BlackPearl Template Posters](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/InspectorWilliamHenderson/BlackPearl-Template-Posters/blob/main/BlackPearl%20Template%20Posters.ipynb) Use This Button to Open the Notebook in Google Colab.
 
 **02.** Now Fill the Variables as Given Below.
 
