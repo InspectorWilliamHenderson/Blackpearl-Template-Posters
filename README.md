@@ -16,10 +16,10 @@
 
 ```javascript
 OMDb_API         : OMDb API Key
-REMOTE_NAME      : From rClone Config
+REMOTE_NAME      : Remote Name From rClone Config
 SHARED_DRIVE     : Google Drive Shared Drive ID
 RCLONE_PASSWORD  : rClone Config Password
-HIDE_POST_COUNT  : Posts Count the User must have to Access the Link (0 to Disable)
+HIDE_POST_COUNT  : Post Count the User must have to Access the Link (0 to Disable)
 HIDE_REACT_SCORE : Reaction Score the User must have to Access the Link (0 to Disable)
 ```
 
@@ -28,10 +28,11 @@ HIDE_REACT_SCORE : Reaction Score the User must have to Access the Link (0 to Di
 **04.** Now, We are on the Third & Last Cell of the Colab Notebook. Now Fill the Variables as per the Instructions Given Below.
 
 ```javascript
-IMDB           : Leave Blank to Automatically Detect IMDb ID or Give IMDb Link for Manual Override 
-YOUTUBE        : Leave Blank to Disable YouTube Trailer
-PATH           : File Path to Generate MediaInfo
-FOLDER         : Disabled / PARENT FOLDER / GRANDPARENT FOLDER
+IMDB           : Leave Blank to Automatically Detect IMDb ID
+YOUTUBE        : Leave Blank to Automatically Detect Official Trailer
+PATH           : Path of File to Generate MediaInfo
+FOLDER         : Disabled / Parent Folder / GrandParent Folder
+LINK           : Leave Blank to Automatically Generate Link
 SCREENSHOTS    : True/False
 ```
 
