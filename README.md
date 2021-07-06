@@ -15,10 +15,11 @@
 **02.** Now Fill the Variables as Given Below.
 
 ```javascript
-OMDb_API         : OMDb API Key
+OMDb_API         : OMDb API Key (Optional)
+TMDb_API         : TMDb API Key (Optional)
 REMOTE_NAME      : Remote Name From rClone Config
-SHARED_DRIVE     : Google Drive Shared Drive ID
-RCLONE_PASSWORD  : rClone Config Password
+SHARED_DRIVE     : Google Drive Shared Drive ID (Optional)
+RCLONE_PASSWORD  : rClone Config Password (Optional)
 HIDE_POST_COUNT  : Post Count the User must have to Access the Link (0 to Disable)
 HIDE_REACT_SCORE : Reaction Score the User must have to Access the Link (0 to Disable)
 ```
@@ -28,11 +29,11 @@ HIDE_REACT_SCORE : Reaction Score the User must have to Access the Link (0 to Di
 **04.** Now, We are on the Third & Last Cell of the Colab Notebook. Now Fill the Variables as per the Instructions Given Below.
 
 ```javascript
-IMDB           : Leave Blank to Automatically Detect IMDb ID
-YOUTUBE        : Leave Blank to Automatically Detect Official Trailer
+IMDB           : IMDb ID (Optional)
+YOUTUBE        : Official Trailer (Optional)
 PATH           : Path of File to Generate MediaInfo
 FOLDER         : Disabled / Parent Folder / GrandParent Folder
-LINK           : Leave Blank to Automatically Generate Link
+LINK           : Publically Shared Link (Optional)
 SCREENSHOTS    : True/False
 ```
 
