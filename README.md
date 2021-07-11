@@ -31,8 +31,7 @@ HIDE_REACT_SCORE : Reaction Score the User must have to Access the Link (0 to Di
 ```javascript
 IMDB           : IMDb ID (Optional)
 YOUTUBE        : Official Trailer (Optional)
-PATH           : Path of File to Generate MediaInfo
-FOLDER         : Disabled / Parent Folder / GrandParent Folder
+PATH           : Path of File or Folder to Share
 LINK           : Publically Shared Link (Optional)
 SCREENSHOTS    : True/False
 ```
